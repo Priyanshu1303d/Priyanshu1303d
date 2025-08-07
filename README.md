@@ -89,9 +89,10 @@ CONST PRIYANSHU = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshu1303d&theme=onedark)](https://github.com/Priyanshu1303d/github-profile-trophy)
 
 <br>
+
 ### 🐍 Contribution Snake
 
-![GitHub Snake Animation](https://github.com/priyanshu1303d/priyanshu1303d/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Priyanshu1303d/Priyanshu1303d/output/snake.svg" alt="Snake animation" />
 
 
 <br clear="both">
