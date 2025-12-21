@@ -19,14 +19,14 @@
 
 CONST PRIYANSHU = {
   pronouns: "He" | "him",
-  ai_ml_frameworks: ["PyTorch","TensorFlow", "LangChain"],
+  ai_ml_frameworks: ["LangChain", "Langgraph", "LangSmith", "PyTorch","TensorFlow"],
   ml_tools: ["MLflow", "NumPy", "Pandas", "OpenCV", "Seaborn"],
-  ai_ml_concepts: ["Generative AI", "Agentic AI", "RAG", "NLP"],
-  devops_tools: ["Docker", "Git"]
+  ai_ml_concepts: ["Generative AI", "Agentic AI", "RAG", "MCP", "NLP"],
+  devops_tools: ["Docker", "Git", "DVC"]
   "cloud-server": ["AWS", "Azure"],
   backend: ["FastAPI", "Flask", "Node.js"],
   frontend: ["HTML", "JavaScript", "React.js", "CSS", "Tailwind CSS"],
-  database: ["MongoDB"],
+  database: ["Pinecone (vectorDB)","MongoDB"],
 }
 
 ```
