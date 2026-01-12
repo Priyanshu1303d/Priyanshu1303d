@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=500&color=40E0D0&background=FFFFFF00&center=true&vCenter=true&random=false&width=451&height=65&lines=In+the+realm+of+AI%2C+;imagination+knows+no+bounds." alt="Typing SVG" /></a>
 </h1>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Priyanshu1303d.visitor-badge&left_color=red&right_color=green) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1303d&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu1303d" /> </p>
 
 
 
