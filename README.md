@@ -1,6 +1,5 @@
 ![logo](https://github.com/Priyanshu1303d/Priyanshu1303d/blob/main/Banner.png)
 
-
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=500&color=40E0D0&background=FFFFFF00&center=true&vCenter=true&random=false&width=451&height=65&lines=In+the+realm+of+AI%2C+;imagination+knows+no+bounds." alt="Typing SVG" /></a>
 </h1>
