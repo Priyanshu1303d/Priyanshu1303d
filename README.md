@@ -77,7 +77,7 @@ CONST PRIYANSHU = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshu1303d&show_icons=true&theme=dark&hide_border=false&bg_color=0D1117&title_color=FFFFFF&icon_color=40E0D0&text_color=C9D1D9" width="378" style="border-radius: 10px;" />
-  <img src="https://streak-stats.demolab.com?user=priyanshu1303d&theme=dark&hide_border=false&background=0D1117&text_color=4682B4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=40E0D0&dates=40E0D0&sideNums=40E0D0&fire=40E0D0&ring=40E0D0&stroke=40E0D0" width="400" style="border-radius: 10px;" />
+
 </p>
 
 <br>
