@@ -72,8 +72,8 @@ CONST PRIYANSHU = {
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Github Stats<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu1303d&show_icons=true&theme=dark&hide_border=false&bg_color=0D1117&title_color=FFFFFF&icon_color=40E0D0&text_color=C9D1D9" width="378" style="border-radius: 10px;" />
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu1303d&show_icons=true&theme=dark&hide_border=false&bg_color=0D1117&title_color=FFFFFF&icon_color=40E0D0&text_color=C9D1D9" width="378" style="border-radius: 10px;" /> -->
 
 </p>
 
