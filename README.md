@@ -21,7 +21,7 @@ CONST PRIYANSHU = {
   ai_ml_concepts: ["GenAI", "Agentic AI", "RAG", "MCP", "OpenCV", "YOLO", "NLP"],
   devops_tools: ["Docker", "Git", "DVC"]
   "cloud-server": ["AWS", "Azure"],
-  backend: ["FastAPI", "Flask", "Node.js"],
+  backend: ["FastAPI", "Node.js"],
   frontend: ["HTML", "JavaScript", "CSS", "Tailwind CSS"],
   database: ["SQL","Pinecone (vectorDB)","MongoDB"],
 }
