@@ -70,7 +70,11 @@ CONST PRIYANSHU = {
 </p>
 
 <br>
+<br>
 
+[![An image of @redhawk1303d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redhawk1303d)](https://holopin.io/@redhawk1303d)
+
+<br>
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Github Stats<br>
 
 <!-- <p align="center">
