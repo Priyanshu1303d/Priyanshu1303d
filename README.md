@@ -6,37 +6,37 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1303d&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu1303d" /> </p>
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I am Priyanshu Kumar Singh! </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"  /> Hi, I am Priyanshu Kumar Singh! </h2>
 <h3 align="center">A passionate AI Engineer</h3>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
 
 
 ```ruby
 
-CONST PRIYANSHU = {
+const PRIYANSHU = {
   pronouns: "He" | "him",
   ai_ml_frameworks: ["LangChain", "Langgraph", "LangSmith", "PyTorch","TensorFlow"],
-  ml_tools: ["MLflow",,"NumPy","Pandas", "Seaborn"],
+  ml_tools: ["MLflow","NumPy","Pandas", "Seaborn"],
   ai_ml_concepts: ["GenAI", "Agentic AI", "RAG", "MCP", "OpenCV", "YOLO", "NLP"],
-  devops_tools: ["Docker", "Git", "DVC"]
+  devops_tools: ["Docker", "Git", "DVC"],
   "cloud-server": ["AWS", "Azure"],
   backend: ["FastAPI", "Node.js"],
   frontend: ["HTML", "JavaScript", "CSS", "Tailwind CSS"],
-  database: ["SQL","Pinecone (vectorDB)","MongoDB"],
+  database: ["SQL","Pinecone (Vector DB)","MongoDB"],
 }
 
 ```
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanshu-kumar-singh-42329128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu kumar singh" height="30" width="40" /></a>
 </p>
 
 <br>
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Languages and Tools:</a></h3>
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Languages & Tools</a></h3>
 
 
 <p align="left">
@@ -63,24 +63,23 @@ CONST PRIYANSHU = {
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB"></code>
   <code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman"></code>
   
-  
-  
   </code>
   
 </p>
 
-<br>
-<br>
+
+## 🏅 Badges
 
 [![An image of @redhawk1303d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redhawk1303d)](https://holopin.io/@redhawk1303d)
 
 <br>
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Github Stats<br>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu1303d&show_icons=true&theme=dark&hide_border=false&bg_color=0D1117&title_color=FFFFFF&icon_color=40E0D0&text_color=C9D1D9" width="378" style="border-radius: 10px;" /> -->
-
-</p>
+<h2>
+  <img 
+    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true"
+    width="35"
+  />
+  GitHub Stats
+</h2>
 
 <br>
 
@@ -92,7 +91,7 @@ CONST PRIYANSHU = {
 
 <br>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <img src="https://raw.githubusercontent.com/Priyanshu1303d/Priyanshu1303d/output/snake.svg" alt="Snake animation" />
 
