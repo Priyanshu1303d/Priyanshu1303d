@@ -18,11 +18,11 @@ const PRIYANSHU = {
   pronouns: "He" | "him",
   ai_ml_frameworks: ["LangChain", "Langgraph", "LangSmith", "PyTorch","TensorFlow"],
   ml_tools: ["MLflow","NumPy","Pandas", "Seaborn"],
-  ai_ml_concepts: ["Generative AI", "Agentic AI", "RAG", "MCP", "OpenCV", "YOLO", "NLP"],
+  ai_ml_concepts: ["Agentic AI","Generative AI", "RAG", "MCP", "OpenCV", "YOLO", "NLP"],
   devops_tools: ["Docker", "Git", "DVC"],
   "cloud-server": ["AWS", "Azure"],
   backend: ["FastAPI", "Node.js"],
-  frontend: ["HTML", "JavaScript", "CSS", "Tailwind CSS"],
+  frontend: ["HTML", "JavaScript", "CSS"],
   database: ["SQL","Pinecone (Vector DB)","MongoDB"],
 }
 
