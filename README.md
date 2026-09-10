@@ -74,19 +74,19 @@ const PRIYANSHU = {
 [![An image of @redhawk1303d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redhawk1303d)](https://holopin.io/@redhawk1303d)
 
 <br>
-<h2>
+<!-- <h2>
   <img 
     src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true"
     width="35"
   />
   GitHub Stats
-</h2>
+</h2> -->
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu1303d&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=4682B4&hide_border=false" width="778" />
-</p>
+</p> -->
 
 <br>
 
