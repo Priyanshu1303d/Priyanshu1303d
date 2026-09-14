@@ -94,7 +94,7 @@ const PRIYANSHU = {
 
 ## 🐍 Contribution Graph
 
-<img src="https://raw.githubusercontent.com/Priyanshu1303d/Priyanshu1303d/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Priyanshu1303d/Priyanshu1303d/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
 <br clear="both">
