@@ -17,13 +17,13 @@
 const PRIYANSHU = {
   pronouns: "He" | "him",
   ai_ml_frameworks: ["LangChain", "Langgraph", "LangSmith", "PyTorch","TensorFlow"],
-  ml_tools: ["MLflow","NumPy","Pandas", "Seaborn"],
+  ml_tools: ["MLflow","NumPy","Pandas", "Seaborn", "Matplotlib],
   ai_ml_concepts: ["Agentic AI","Generative AI", "RAG", "MCP", "OpenCV", "YOLO", "NLP"],
   devops_tools: ["Docker", "Git", "DVC"],
-  "cloud-server": ["AWS", "Azure"],
+  "cloud-server": ["AWS", "Heroku", "Azure"],
   backend: ["FastAPI", "Node.js"],
   frontend: ["HTML", "JavaScript", "CSS"],
-  database: ["SQL","Pinecone (Vector DB)","MongoDB"],
+  database: ["SQL","Pinecone (Vector DB)", "Qdrant","MongoDB"],
 }
 
 ```
@@ -31,6 +31,7 @@ const PRIYANSHU = {
 
 
 <h3 align="left">Connect with Me</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanshu-kumar-singh-42329128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu kumar singh" height="30" width="40" /></a>
 </p>
