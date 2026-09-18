@@ -22,7 +22,7 @@ const PRIYANSHU = {
   devops_tools: ["Docker", "Git", "DVC"],
   "cloud-server": ["AWS", "Heroku", "Azure"],
   backend: ["FastAPI", "Node.js"],
-  frontend: ["HTML", "JavaScript", "CSS"],
+  frontend: ["HTML", "JavaScript", "CSS", "Streamlit UI"],
   database: ["SQL","Pinecone (Vector DB)", "Qdrant","MongoDB"],
 }
 
