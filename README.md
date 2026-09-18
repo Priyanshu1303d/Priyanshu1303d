@@ -37,7 +37,7 @@ const PRIYANSHU = {
 </p>
 
 <br>
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Languages & Tools</a></h3>
+<h3> <p><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="#">Languages & Tools</a></p></h3>
 
 
 <p align="left">
