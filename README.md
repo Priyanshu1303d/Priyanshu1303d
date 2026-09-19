@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1303d&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu1303d" /> </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"  /> Hi, I am Priyanshu Kumar Singh! </h2>
+<br>
 <h3 align="center">A passionate AI Engineer</h3>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
