@@ -17,7 +17,7 @@
 
 const PRIYANSHU = {
   pronouns: "He" | "him",
-  ai_ml_frameworks: ["LangChain", "Langgraph", "LangSmith", "PyTorch","TensorFlow"],
+  ai_ml_frameworks: ["LangChain", "Langgraph", "LangSmith", "PyTorch"],
   ml_tools: ["MLflow","NumPy","Pandas", "Seaborn", "Matplotlib"],
   ai_ml_concepts: ["Agentic AI","Generative AI", "RAG", "MCP", "OpenCV", "YOLO", "NLP"],
   devops_tools: ["Docker", "Git", "DVC"],
