@@ -33,8 +33,8 @@ const PRIYANSHU = {
 ## 🚀 Featured Projects
 
 ### 🧾 Smart Credit Orchestrator: AI Invoice-Collections Agent
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://smartcreditorchestrator.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshu1303d/Smart_Credit_Orchestrator)
+[![**Live Demo**](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://smartcreditorchestrator.streamlit.app/)
+[![**GitHub**](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshu1303d/Smart_Credit_Orchestrator)
 
 - Automated invoice follow-ups across **4 tone stages** with a 31+ day human-escalation path, by building an **8-node LangGraph** workflow with a capped 2-retry loop (13 boundary tests).
 - Stopped unverified LLM output from reaching clients (**20/20 tests passing**), by adding a **4-layer validator**: injection scan, JSON parse, Pydantic schema, and cross-check against the source invoice.
@@ -43,8 +43,8 @@ const PRIYANSHU = {
 `LangGraph` `Groq Llama-3.3-70B` `FastAPI` `Pydantic` `Streamlit` `LangSmith` `pytest`
 
 ### ⚖️ Weighing Scale Detection System
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://weighing-scale-detection25.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshu1303d/weighing_scale_detection)
+[![**Live Demo**](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://weighing-scale-detection25.streamlit.app/)
+[![**GitHub**](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshu1303d/weighing_scale_detection)
 
 - Detected scale displays at **99.5% mAP@0.50** (79.78% mAP@0.50:0.95), **99.17% precision**, and **100% recall** on a small held-out test set, by fine-tuning **YOLOv8n** with early stopping.
 - Picked the active scale when several appear in one photo, by designing a **weighted selector** over area, centrality, contrast, and vertical position (unit-tested).
